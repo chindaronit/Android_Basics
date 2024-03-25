@@ -14,6 +14,14 @@
     <string name="null_input_message">Enter the value to convert</string>
     <string name="gray">Gray</string>
     <string name="light">Light</string>
+    <string name="noButton">No</string>
+    <string name="yesButton">Yes</string>
+    <string name="grayColor">Gray</string>
+    <string name="convertButton">Convert</string>
+    <string name="digitHint">Digit</string>
+    <string name="question">Do You like my application?</string>
+    <string name="thank_you_happy">Thank You :)</string>
+    <string name="thank_you_sad">Thank You ):</string>
 
 
 </resources>
