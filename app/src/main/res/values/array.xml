@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="convert_array">
+        <item>Inches TO CM</item>
+        <item>M TO CM</item>
+        <item>KM TO M</item>
+    </string-array>
+</resources>

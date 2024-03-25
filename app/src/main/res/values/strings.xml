@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="hello_world">Hello World</string>
+    <string name="country">Country</string>
+    <string name="apply_button">Apply</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="Show">Show</string>
+    <string name="Hide">Hide</string>
+    <string name="helloWorldTV">Hello World!</string>
+    <string name="convert_to_cm">Basic Converter</string>
+    <string name="math">math</string>
+    <string name="null_input_message">Enter the value to convert</string>
+    <string name="gray">Gray</string>
+    <string name="light">Light</string>
+
+
+</resources>
