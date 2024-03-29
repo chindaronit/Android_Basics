@@ -17,7 +17,6 @@ class MainActivity: ComponentActivity() {
         applyButton.setTextColor(ResourcesCompat.getColor(resources, R.color.purple_700,null));
         applyButton.text=getString(R.string.apply_button)
     }
-
 }
 
 

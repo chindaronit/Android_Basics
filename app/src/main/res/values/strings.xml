@@ -22,6 +22,18 @@
     <string name="question">Do You like my application?</string>
     <string name="thank_you_happy">Thank You :)</string>
     <string name="thank_you_sad">Thank You ):</string>
-
-
+    <string name="Welcome">Welcome</string>
+    <string name="enterName">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="flag">Flag</string>
+    <string name="submit">Submit</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="congratulations">Congratulations!!</string>
+    <string name="username">Ronit Chinda</string>
+    <string name="score">Score</string>
+    <string name="max_10">6/10</string>
+    <string name="trophy">trophy</string>
+    <string name="playAgain">Play Again</string>
 </resources>

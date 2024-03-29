@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:id="@+id/pageView"
-    tools:context=".convert_to_cm">
+    tools:context=".Converter">
 
     <ImageView
         android:id="@+id/imageView"
